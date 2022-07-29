@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav{
+    padding: 5px;
+}
+.navbar-nav .nav-item{
+    padding: 20px;
+}
+.navbar-nav .nav-item .nav-link{
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.navbar .navbar-brand{
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: 400;
+}
+.navbar .navbar-brand:hover{
+    padding: 20px;
+    transition: 0.5s;
+    font-weight: 600;
+}
+.main-text{
+    margin: 20px;
+}
+.post-content{
+    margin: 20px;
+    padding: 15px;
+}
+.heading a{
+    padding: 5px;
+    text-decoration: none;
+    color: blueviolet;
+}
+.post-title{
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.contact{
+    padding: 10px;
+}
+.footer{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+.form-class{
+    margin-top: 20px;
+}
+.form-group input{
+    margin-bottom: 20px;
+    width: 50%;
+    border: 1px solid gray;
+}
+.form-group .btn{
+    width: 10%;
+}
+.link{
+    font-size: 15px;
+    font-weight: 500;
+}
+.link span a{
+    text-decoration: none;
+    padding-left:3px;
+    font-weight: 400
+}
+.login-form{
+    margin-top: 20px;
+}
+.register-text span a{
+    padding-left:3px ;
+    text-decoration: none;
+    font-weight:400 ;
+}
